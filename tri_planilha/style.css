@@ -1,0 +1,22 @@
+.material{
+    position: absolute;
+    top: 5px;
+}
+
+.descricao{
+    position: absolute;
+    left: 200px;
+    top: 5px;
+}
+
+.quantidade{
+    position: absolute;
+    left: 390px;
+    top: 5px;
+}
+
+.conf{
+    position: absolute;
+    left: 600px;
+    top: 20px;
+}
